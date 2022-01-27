@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xedolor/static/css/main.aac09a34.css",
+    "main.js": "/xedolor/static/js/main.6d24bede.js",
+    "static/js/787.50800559.chunk.js": "/xedolor/static/js/787.50800559.chunk.js",
+    "index.html": "/xedolor/index.html",
+    "main.aac09a34.css.map": "/xedolor/static/css/main.aac09a34.css.map",
+    "main.6d24bede.js.map": "/xedolor/static/js/main.6d24bede.js.map",
+    "787.50800559.chunk.js.map": "/xedolor/static/js/787.50800559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac09a34.css",
+    "static/js/main.6d24bede.js"
+  ]
+}
